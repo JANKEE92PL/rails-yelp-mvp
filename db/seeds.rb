@@ -9,3 +9,4 @@ puts "Creating Restaurants"
     address: Faker::Address.street_name
   )
 end
+puts "Creating Finished"
